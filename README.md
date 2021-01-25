@@ -1,4 +1,4 @@
-** Project Summary: User Segmentation
+**Project Summary: User Segmentation
 
 Project objective (Why):
 Dựa theo dữ liệu người dùng, tìm ra các lựa chọn mô hình và phương pháp phù hợp để phân tập người dùng (User) trên Mạng xã hội X. Từ đó các hoạt động vận hành và truyền thông marketing sẽ được phát triển tương ứng.
@@ -41,5 +41,4 @@ Applied field (Where):
 + Kết hợp cùng với team Tech để phát triển thêm mô hình và xây dựng thêm một số metrics cần thiết.
 Related people (Who): 
 Trình bày cho line manager, team BI, team Tech và các Business user khác (BOD, team Marketing, CS, Sale)
-
 
